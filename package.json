@@ -2,7 +2,7 @@
   "name": "whatsapp-bot",
   "version": "0.0.1",
   "description": "A WhatsApp bot written in TypeScript using Baileys",
-  "author": "Lucky Yambem",
+  "author": "barto-kun",
   "main": "dist/bot.js",
   "keywords": [
     "bot",
